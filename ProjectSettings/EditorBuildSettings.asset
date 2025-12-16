@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/OverWorld.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
     path: Assets/MainMenu.unity
     guid: cf12e8da35cbe3142842502af80e59f8
+  - enabled: 1
+    path: Assets/Scenes/OverWorld.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/Scenes/MCHouse.unity
     guid: 16a70558557735a49891d3df05c05667
@@ -23,6 +23,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Town.unity
     guid: 93ca756444e4b3f45a5f933c891d66e5
+  - enabled: 1
+    path: Assets/Scenes/Capital.unity
+    guid: 67d499eb889c06440ad60ca0c94395a0
+  - enabled: 1
+    path: Assets/Scenes/EndOfAlpa.unity
+    guid: 010f8e9e475b47f4facaab533250148a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
